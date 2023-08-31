@@ -32,4 +32,7 @@ Remember That **Artificial intelligence** it's very fast growing subjects .
 etc 
 
 # **Let's Start**
-[Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086)
+- [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086)
+- [Pose Guided Person Image Generation](https://arxiv.org/abs/1705.09368)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+
