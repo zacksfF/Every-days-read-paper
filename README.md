@@ -12,17 +12,17 @@ Remember That **Artificial intelligence** it's very fast growing subjects .
      - etc...
 ## Tor Research Papers website
 
-- https://arxiv.org/
+- [ARXIV](https://arxiv.org/)
 
-- https://ieeexplore.ieee.org/Xplore/home.jsp
+- [ieeexplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
 - https://dl.acm.org/
 
-- https://www.sciencedirect.com/ 
+- [sciencedirect](https://www.sciencedirect.com/) 
 
-- https://www.nature.com/srep/
+- [Nature](https://www.nature.com/srep/)
 
-- https://www.frontiersin.org/
+- (frontiersin)[https://www.frontiersin.org/]
   
 - https://pubmed.ncbi.nlm.nih.gov/
   
