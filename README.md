@@ -32,3 +32,5 @@ Remember That **Artificial intelligence** it's very fast growing subjects .
 etc 
 
 # **Let's Start**
+**[Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis]**(https://arxiv.org/abs/1704.04086)
+
