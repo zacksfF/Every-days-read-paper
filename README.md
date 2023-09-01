@@ -35,4 +35,4 @@ etc
 - [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis](https://arxiv.org/abs/1704.04086)
 - [Pose Guided Person Image Generation](https://arxiv.org/abs/1705.09368)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
-
+- [Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/ftp/arxiv/papers/2010/2010.02013.pdf)
