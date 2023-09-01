@@ -36,3 +36,7 @@ etc
 - [Pose Guided Person Image Generation](https://arxiv.org/abs/1705.09368)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 - [Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/ftp/arxiv/papers/2010/2010.02013.pdf)
+- [RobustTrend: A Huber Loss with a Combined First and Second Order Difference Regularization for Time Series Trend Filtering](https://arxiv.org/abs/1906.03751)
+- [Regression Discontinuity Designs in Economics](https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf)
+- [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf)
+- [Machine Learning and Econometrics](https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
