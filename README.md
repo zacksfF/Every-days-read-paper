@@ -40,3 +40,4 @@ etc
 - [Regression Discontinuity Designs in Economics](https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf)
 - [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf)
 - [Machine Learning and Econometrics](https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
+- [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/pdf/2308.13418v1.pdf)
