@@ -3,32 +3,15 @@
 The Concept of this repository its to know about new research paper but sometimes i publich some old papers from *2019/2020/2021/2022* but really it's woth to read and practices, Also now the new algorithms and new open sources.
 Remember That **Artificial intelligence** it's very fast growing subjects .
 
-
-### Papers Category 
-
-- machine learning | artificial intelligence 
-- deep learning | neural networks 
-- data | Tools
-     - etc...
 ## Tor Research Papers website
 
-- [ARXIV](https://arxiv.org/)
+- [ARXIV](https://arxiv.org/) [ieeexplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-- [ieeexplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- https://dl.acm.org/ [sciencedirect](https://www.sciencedirect.com/)  [Nature](https://www.nature.com/srep/)
 
-- https://dl.acm.org/
+- (frontiersin)[https://www.frontiersin.org/] https://pubmed.ncbi.nlm.nih.gov/ https://scholar.google.com/
 
-- [sciencedirect](https://www.sciencedirect.com/) 
-
-- [Nature](https://www.nature.com/srep/)
-
-- (frontiersin)[https://www.frontiersin.org/]
-  
-- https://pubmed.ncbi.nlm.nih.gov/
-  
-- https://scholar.google.com/
-  
-- https://paperswithcode.com/ (I am a big fan of this webs)
+- (paperswithcode)[https://paperswithcode.com/] (I am a big fan of this webs)
 etc 
 
 # **Let's Start**
