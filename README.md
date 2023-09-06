@@ -24,3 +24,5 @@ etc
 - [Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead](https://arxiv.org/pdf/1811.10154.pdf)
 - [Machine Learning and Econometrics](https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
 - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/pdf/2308.13418v1.pdf)
+- [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/pdf/2308.13418v1.pdf)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/pdf/2308.04079v1.pdf)
